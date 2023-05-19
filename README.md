@@ -3,8 +3,16 @@
 
 ## Prerquisits
 
-- OS Android 5.0 (Lollipop)
+- OS Android 7.0 (Nougat)
 - RAM   minimal 10GB
 - WIFI  needed
 
 ## installation
+
+#### Step 1
+- Download the CloverflowOS installer APK on this repository
+- tip: tap on the .apk file to install the app
+
+#### Step 2
+- open the app with the name "ColverflowOS installer"
+- 
