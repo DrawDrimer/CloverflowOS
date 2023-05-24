@@ -3,7 +3,7 @@
 
 ## Prerquisits
 
-- OS Android 7.0 (Nougat)
+- OS Android 7.0 (Nougat) and up
 - RAM   minimal 10GB
 - WIFI  needed
 
@@ -15,4 +15,4 @@
 
 #### Step 2
 - open the app with the name "ColverflowOS installer"
-- 
+- and make the installation process
