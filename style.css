@@ -1,0 +1,15 @@
+.html
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin-left: auto;
+    text-decoration-style: solid;
+    text-decoration-color: rgb(0, 255, 157);
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin: auto;
+    text-decoration-style: solid;
+    text-decoration: rgb(139, 18, 238);
+}
