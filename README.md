@@ -4,7 +4,7 @@
 ## Prerquisits
 
 - OS Android 7.0 (Nougat) and up
-- RAM   minimal 10GB
+- RAM   minimal 4GB
 - WIFI  needed
 
 ## installation
