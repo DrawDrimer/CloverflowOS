@@ -17,5 +17,6 @@ Download the CoverFlowOS installer APK on this repository ([![Installer APK](htt
 Open the installer on your phone and select start installation.
 
 ### Step 3
-*choons time*
+***choons time***
+
 Open up Choons on your computer and select install CoverFlowOS
